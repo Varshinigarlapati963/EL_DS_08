@@ -10,18 +10,18 @@ This Power BI dashboard provides a monthly overview of sales performance across 
       Sum of Sales: 54.35K – Total sales amount.
       Sum of Quantity: 1,021 – Total quantity of products sold.
 ### 2. Charts and Visualizations
-     ### Sum of Sales by Sub-Category
+      Sum of Sales by Sub-Category
       Bar chart showing which sub-categories (e.g., Phones, Chairs, Storage) generate the most revenue.
       Helps identify top-performing and underperforming products.
-    ### Sum of Sales by Day and Month
+     Sum of Sales by Day and Month
       Line chart comparing daily sales trends across two months: April and May.
       Useful for detecting sales spikes, promotions, or seasonal patterns.
-    ### Sum of Sales by Segment
+     Sum of Sales by Segment
       Donut chart showing sales distribution by customer segment:
       Consumer (42.1%)
       Corporate (39.38%)
       Home Office (18.45%)
-    ### Top Customers Table
+     Top Customers Table
       Table listing customer names and their respective sales values.
       Helps identify high-value customers.
 ## Filters
